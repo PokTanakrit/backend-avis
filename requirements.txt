@@ -1,0 +1,10 @@
+flask
+requests
+scikit-learn
+flask-cors
+pymilvus>=2.4.2
+transformers
+numpy
+torch
+pymysql
+
