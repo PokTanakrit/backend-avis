@@ -2,7 +2,7 @@ import json
 from openai import OpenAI
 
 client = OpenAI(
-    api_key='sk-UCtovgjwe3QYsmPXOk2Uvy9Zqn1pS9WH1AuwrC8TmBG4uuTk',
+    api_key='',
     base_url='https://api.opentyphoon.ai/v1'
 )
 
